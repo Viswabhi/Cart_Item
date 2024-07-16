@@ -1,0 +1,1 @@
+image: "/images/samsung-galaxy-s8.jpg"
